@@ -1,4 +1,4 @@
-FROM ModusCreateOrg/panamax-docker-apache-php
+FROM moduscreate/panamax-docker-apache-php
 MAINTAINER Pat Cox <patrick.cox@centurylink.com>
 
 # Install packages
